@@ -23,6 +23,13 @@ Com os dados inseridos, o sistema exibirá a seguinte mensagem formatada:
 
 > "Olá [Nome do Cliente], obrigado por criar uma conta em nosso banco, sua agência é [Agência], conta [Número] e seu saldo [Saldo] já está disponível para saque."
 
+## 📌 IMPORTANTE
+
+Ao inserir o saldo, caso sua máquina use o padrão brasileiro, é importante escrever o valor com vírgula. 
+
+**EX.:** 1059,90
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 - Java 21
